@@ -1,0 +1,20 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "description": "RESTapi test mongoose",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.0.1",
+    "bcrypt-nodejs": "^0.0.3",
+    "body-parser": "^1.18.2",
+    "mongoose-pagination": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Box",
+  "license": "ISC"
+}
